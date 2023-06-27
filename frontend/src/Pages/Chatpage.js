@@ -8,7 +8,6 @@ import MyChats from '../components/MyChats';
 export const Chatpage = () => {
 
    const { user } = ChatState()
-   console.log(user);
 
    return (
       <div style={{ width: "100%" }}>
