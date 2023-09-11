@@ -9,6 +9,9 @@
   },
   "author": "Muzammil Ali Khan",
   "license": "ISC",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "bcrypt": "^5.1.0",
     "colors": "^1.4.0",
